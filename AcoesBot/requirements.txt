@@ -1,0 +1,9 @@
+schedule
+requests_html
+bs4
+requests
+email-to
+pyzmail36
+pandas
+imapclient
+pytz
